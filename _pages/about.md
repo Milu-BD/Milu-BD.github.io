@@ -1,3 +1,9 @@
+---
+permalink: /
+title: "About"
+author_profile: true
+layout: single
+---
 ## Welcome
 
 I am Al-Hifazat Milu, a Cooling Engineer in the Research & Innovation Division of Walton Hi-Tech Industries PLC, Bangladesh.

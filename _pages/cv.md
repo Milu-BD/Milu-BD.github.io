@@ -17,7 +17,7 @@ author_profile: true
 
 Refrigeration Systems Design & Control Engineer
 Research & Innovation Division
-Walton Hi-Tech Industries PLC.
+Walton Hi-Tech Industries PLC
 
 ---
 

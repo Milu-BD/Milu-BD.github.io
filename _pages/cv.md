@@ -1,9 +1,9 @@
 ---
-
 title: "CV"
 permalink: /cv/
 author_profile: true
---------------------
+layout: single
+---
 
 # Curriculum Vitae
 
@@ -15,8 +15,8 @@ author_profile: true
 
 ## Current Position
 
-Refrigeration Systems Design & Control Engineer
-Research & Innovation Division
+### Refrigeration Systems Design & Control Engineer  
+Research & Innovation Division  
 Walton Hi-Tech Industries PLC
 
 ---

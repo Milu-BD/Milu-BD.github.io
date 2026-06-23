@@ -23,7 +23,7 @@ Walton Hi-Tech Industries PLC
 
 ## Education
 
-### M.Sc. (Ongoing) in Mechanical and Production Engineering
+### M.Sc. (ongoing) in Mechanical and Production Engineering
 
 Islamic University of Technology (IUT)
 

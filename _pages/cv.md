@@ -42,8 +42,8 @@ Rajshahi University of Engineering & Technology (RUET)
 
 ## Technical Skills
 
-* Solidworks, Autocad, Ansys
-* Matlab
+* SolidWorks, AutoCAD, ANSYS
+* MATLAB
 * C, Java, Python
 * Arduino
 * Embedded Systems

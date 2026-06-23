@@ -4,20 +4,28 @@ title: "About"
 author_profile: true
 layout: single
 ---
-## Welcome
+## Professional Experience
 
-I am Al-Hifazat Milu, a Cooling Engineer in the Research & Innovation Division of Walton Hi-Tech Industries PLC, Bangladesh.
+**Refrigeration Systems Design & Control Engineer, Research & Innovation**  
+Walton Hi-Tech Industries PLC
 
-My work focuses on refrigerator cooling circuit design, thermal performance optimization, reliability testing, safety evaluation, embedded control systems, and IoT-enabled smart appliances.
+My responsibilities include refrigeration system design, cooling circuit optimization, thermal performance analysis, reliability testing, and embedded control system development for household appliances.
 
-I received my B.Sc. in Mechanical Engineering from Rajshahi University of Engineering & Technology (RUET). My undergraduate thesis focused on the fabrication and performance analysis of an IoT-based smart solar PV panel tracking system.
+## Education
 
-My research interests include:
+**B.Sc. in Mechanical Engineering**  
+Rajshahi University of Engineering & Technology (RUET)
 
-- Refrigeration and Cooling Systems
-- Heat Transfer and Thermal Engineering
-- Embedded Control Systems
+Undergraduate Thesis:
+*Fabrication and Performance Analysis of an IoT-Based Smart Solar PV Panel Tracking System*
+
+## Technical Skills
+
+- Refrigeration Systems
+- Thermal Engineering
+- Heat Transfer Analysis
+- Embedded Systems
 - Industrial IoT
-- Intelligent Decision-Making Systems
-- Energy-Efficient Technologies
-- Computational Modeling and Simulation
+- MATLAB
+- C Programming, Java, Python
+- Arduino & Microcontrollers
